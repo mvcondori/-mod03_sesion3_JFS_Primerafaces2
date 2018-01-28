@@ -14,6 +14,7 @@ import org.primefaces.model.map.Marker;
 
 public class MapaBean {
 	
+	//definicion de mapa ben
 	private MapModel modelo = new DefaultMapModel();
 
 	public MapaBean() {
